@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+scipy
+librosa
+crepe
+soundfile
+demucs
+torch
+torchaudio
+ffmpeg-python
