@@ -1,6 +1,6 @@
 setuptools
 wheel
-
+torchcodec
 fastapi
 uvicorn
 python-multipart
